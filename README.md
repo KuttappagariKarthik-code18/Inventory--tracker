@@ -119,6 +119,6 @@ InventoryTracker/
 
 Developed as part of the **CODTECH Internship Program**.
 
-**Intern ID:** CITS3827
+**Intern ID:** CITS4758
 
 **Project Title:** Inventory Tracker
